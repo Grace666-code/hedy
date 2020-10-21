@@ -1,6 +1,6 @@
 ---
   1: 
-    intro_text: "In Level 1 you can use these commands"
+    intro_text: "在第1级目标你可以使用这些命令"
     start_code: "print hello world!"
     commands: 
       - 
